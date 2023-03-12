@@ -4,3 +4,6 @@ dung git gui here2
 dung git gui here
 CHINH SUA NHAN VIEN a
 CHINH SUA TREN NHANH MAIN
+
+
+noi dung tren main
